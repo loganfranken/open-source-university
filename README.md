@@ -6,6 +6,6 @@ each system.
 
 ## Learning Management System
 
-| Product | Open-Source | Free |
---------------------------------
-| [Moodle](https://moodle.org/) | Y | Y |
+| Product                       | Open-Source | Free |
+| ----------------------------- | ----------- | ---- |
+| [Moodle](https://moodle.org/) | Y           | Y    |
