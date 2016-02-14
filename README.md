@@ -23,6 +23,14 @@ This project is currently focusing on universities within the United States.
 | [OLAT](http://www.olat.org/product)                 | Y           | Y    | [View Source](http://hg.olat.org/repos)                        |
 | [Opigno](https://www.opigno.org/)                   | N           | Y    | (Couldn't locate source)                                       |
 
+## Student Information System
+
+TBD
+
+## Financial Aid Management System
+
+TBD
+
 ## Sources
 
 * http://elearningindustry.com/open-source-learning-management-systems
