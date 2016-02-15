@@ -6,6 +6,34 @@ each system.
 
 This project is currently focusing on universities within the United States.
 
+## Accounting System
+
+TBD
+
+## Alumni Management System
+
+TBD
+
+## Bookstore Management System
+
+TBD
+
+## Calendaring System
+
+TBD
+
+## Career Services System
+
+TBD
+
+## Event Management System
+
+TBD
+
+## Financial Aid Management System
+
+TBD
+
 ## Learning Management System
 
 | Product                                             | Source                                                         |
@@ -23,11 +51,15 @@ This project is currently focusing on universities within the United States.
 | [OLAT](http://www.olat.org/product)                 | [View Source](http://hg.olat.org/repos)                        |
 | [Opigno](https://www.opigno.org/en)                 | [View Source](http://cgit.drupalcode.org/opigno_lms/tree/)     |
 
-## Student Information System
+## Library Management System
 
 TBD
 
-## Financial Aid Management System
+## Student Health Management System
+
+TBD
+
+## Student Information System
 
 TBD
 
