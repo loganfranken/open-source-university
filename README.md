@@ -21,6 +21,7 @@ This project is currently focusing on universities within the United States.
 | [Moodle](https://moodle.org/)                       | [View Source](https://github.com/moodle/moodle)                |
 | [Sakai](https://www.sakaiproject.org/)              | [View Source](https://source.sakaiproject.org/svn/sakai/)      |
 | [OLAT](http://www.olat.org/product)                 | [View Source](http://hg.olat.org/repos)                        |
+| [Opigno](https://www.opigno.org/en)                 | [View Source](http://cgit.drupalcode.org/opigno_lms/tree/)     |
 
 ## Student Information System
 
