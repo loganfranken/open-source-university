@@ -63,7 +63,9 @@ TBD
 
 ## Student Information System
 
-TBD
+| Product                        | Source                                                              |
+| ------------------------------ | ------------------------------------------------------------------- |
+| [OpenSIS](http://opensis.com/) | [View Source](https://sourceforge.net/p/opensis-ce/code/HEAD/tree/) |
 
 ## Sources
 
