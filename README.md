@@ -67,9 +67,12 @@ TBD
 
 ## Student Information System
 
-| Product                        | Source                                                              |
-| ------------------------------ | ------------------------------------------------------------------- |
-| [OpenSIS](http://opensis.com/) | [View Source](https://sourceforge.net/p/opensis-ce/code/HEAD/tree/) |
+| Product                                            | Source                                                                |
+| -------------------------------------------------- | --------------------------------------------------------------------  |
+| [eduTrac](https://www.edutracsis.com/)             | [View Source](https://sourceforge.net/p/edutrac/code/ci/master/tree/) |
+| [Fedena](https://github.com/projectfedena/fedena)  | [View Source](https://github.com/projectfedena/fedena)                |
+| [openSIS](http://opensis.com/)                     | [View Source](https://sourceforge.net/p/opensis-ce/code/HEAD/tree/)   |
+| [RosarioSIS](https://www.rosariosis.org/)          | [View Source](https://github.com/francoisjacquet/rosariosis)          |
 
 ## Sources
 
