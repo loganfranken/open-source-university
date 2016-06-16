@@ -8,7 +8,9 @@ This project is currently focusing on universities within the United States.
 
 ## Accounting System
 
-TBD
+| Product                                             | Source                                      |
+| --------------------------------------------------- | ------------------------------------------- |
+| [Kuali Financial System](https://www.kuali.org/kfs) | [View Source](https://github.com/kuali/kfs) |
 
 ## Alumni Management System
 
