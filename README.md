@@ -32,6 +32,14 @@ TBD
 
 TBD
 
+## E-mail System
+
+TBD
+
+## Enterprise Resource Planning
+
+TBD
+
 ## Event Management System
 
 TBD
