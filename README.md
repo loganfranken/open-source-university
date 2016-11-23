@@ -7,12 +7,15 @@ each system.
 This project is currently focusing on universities within the United States.
 
 ## Accounting System
+System for managing and auditing the financial transactions within a
+university.
 
 | Product                                             | Source                                      |
 | --------------------------------------------------- | ------------------------------------------- |
 | [Kuali Financial System](https://www.kuali.org/kfs) | [View Source](https://github.com/kuali/kfs) |
 
 ## Alumni Management System
+System for keeping track of alumni, generally for fundraising efforts.
 
 (None Available)
 
