@@ -16,10 +16,6 @@ This project is currently focusing on universities within the United States.
 
 (None Available)
 
-## Bookstore Management System
-
-TBD
-
 ## Calendaring System
 
 TBD
