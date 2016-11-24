@@ -25,7 +25,7 @@ System for displaying campus events in a calendar format.
 This isn't really a higher education-specific problem: many universities simply
 use Google Calendar. For an open-source alternative, institutions could use an
 open-source DAV server, like [Baikal](http://sabre.io/baikal/), with an
-open-source DAV client, like [AgenDAV](https://github.com/adobo/agendav/).
+open-source DAV client, like [AgenDAV](http://agendav.org/).
 
 The assumption is that there are a number of open-source solutions to this
 problem, so they won't be listed here.
