@@ -31,8 +31,11 @@ The assumption is that there are a number of open-source solutions to this
 problem, so they won't be listed here.
 
 ## Career Services System
+System for managing all aspects of student career services, including
+event management for career fairs, coordinating on-campus interviews, and
+providing a student job search platform.
 
-TBD
+(None Available)
 
 ## Customer Relationship Management
 
