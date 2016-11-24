@@ -20,8 +20,15 @@ System for keeping track of alumni, generally for fundraising efforts.
 (None Available)
 
 ## Calendaring System
+System for displaying campus events in a calendar format.
 
-TBD
+This isn't really a higher education-specific problem: many universities simply
+use Google Calendar. For an open-source alternative, institutions could use an
+open-source DAV server, like [http://sabre.io/baikal/](Baikal), with an
+open-source DAV client, like [https://github.com/adobo/agendav/](AgenDAV).
+
+The assumption is that there are a number of open-source solutions to this
+problem, so they won't be listed here.
 
 ## Career Services System
 
