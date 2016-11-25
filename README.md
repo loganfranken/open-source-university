@@ -38,8 +38,15 @@ providing a student job search platform.
 (None Available)
 
 ## Customer Relationship Management
+System for managing and tracking a university's interactions with its
+"customers", which often refers to students, but could also include alumni,
+staff, and more.
 
-TBD
+(None Available)
+
+Although I could not find any open-source CRM solutions _specific_ to
+higher education, there are plenty of general open-source CRM solutions that
+could likely be tweaked to fit the needs of a higher education institution.
 
 ## Document Management System
 
@@ -104,10 +111,3 @@ TBD
 | [Fedena](https://github.com/projectfedena/fedena)  | [View Source](https://github.com/projectfedena/fedena)                |
 | [openSIS](http://opensis.com/)                     | [View Source](https://sourceforge.net/p/opensis-ce/code/HEAD/tree/)   |
 | [RosarioSIS](https://www.rosariosis.org/)          | [View Source](https://github.com/francoisjacquet/rosariosis)          |
-
-## Sources
-
-* http://blog.capterra.com/top-8-freeopen-source-lmss/
-* http://elearningindustry.com/open-source-learning-management-systems
-* http://elearningindustry.com/top-open-source-learning-management-systems
-* https://en.wikipedia.org/wiki/List_of_learning_management_systems
