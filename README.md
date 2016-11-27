@@ -54,8 +54,11 @@ System used to scan, index, and archive images of university documents.
 (None Available)
 
 ## E-mail System
+System supporting university e-mail communication.
 
-TBD
+Similar to a calendaring system (see above), this is not a higher education-specific
+problem. There are a number of open-source solutions to this problem, so they
+will not be listed here.
 
 ## Emergency Communication  System
 
