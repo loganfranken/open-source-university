@@ -49,8 +49,9 @@ higher education, there are plenty of general open-source CRM solutions that
 could likely be tweaked to fit the needs of a higher education institution.
 
 ## Document Management System
+System used to scan, index, and archive images of university documents.
 
-TBD
+(None Available)
 
 ## E-mail System
 
