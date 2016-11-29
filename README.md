@@ -60,9 +60,12 @@ Similar to a calendaring system (see above), this is not a higher education-spec
 problem. There are a number of open-source solutions to this problem, so they
 will not be listed here.
 
-## Emergency Communication  System
+## Emergency Communication System
+System for notifying people across the university of an emergency situation,
+like an active shooter or gas leak. Methods of communication could include
+phone, text message, e-mail, and more.
 
-TBD
+(None Available)
 
 ## Enterprise Resource Planning
 
