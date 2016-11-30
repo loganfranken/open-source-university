@@ -68,8 +68,16 @@ phone, text message, e-mail, and more.
 (None Available)
 
 ## Enterprise Resource Planning
+System allowing for the management of broadly defined "university resources"
+(funds, classrooms, students) in a central location, providing tools for
+streamlining and integrating the business processes surrounding these
+resources.
 
-TBD
+| Product                                                                          | Source                                                          |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [EduERP](http://www.serpentcs.com/services/erp-products/education-erp)           | [View Source](https://github.com/JayVora-SerpentCS/EduERPv8)    |
+| [EduSec](http://www.rudrasoftech.com/product/edusec-college-management-software) | [View Source](https://github.com/EduSec/EduSec)                 |
+| [OpenEduCat](https://www.openeducat.org/)                                        | [View Source](https://github.com/openeducat/openeducat_erp)     |
 
 ## Event Management System
 
