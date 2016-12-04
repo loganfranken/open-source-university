@@ -1,91 +1,23 @@
 # Open-Source University
 
-An attempt to catalog all of the software systems used within higher education
-and identify whether or not you can find free, open-source alternatives for
-each system.
+An attempt to catalog free, open-source alternatives for major software systems
+used within higher education.
 
 This project is currently focusing on universities within the United States.
 
 ## Accounting System
-System for managing and auditing the financial transactions within a
-university.
 
 | Product                                             | Source                                      |
 | --------------------------------------------------- | ------------------------------------------- |
 | [Kuali Financial System](https://www.kuali.org/kfs) | [View Source](https://github.com/kuali/kfs) |
 
-## Alumni Management System
-System for keeping track of alumni, generally for fundraising efforts.
-
-(None Available)
-
-## Calendaring System
-System for displaying campus events in a calendar format.
-
-This isn't really a higher education-specific problem: many universities simply
-use Google Calendar. For an open-source alternative, institutions could use an
-open-source DAV server, like [Baikal](http://sabre.io/baikal/), with an
-open-source DAV client, like [AgenDAV](http://agendav.org/).
-
-The assumption is that there are a number of open-source solutions to this
-problem, so they won't be listed here.
-
-## Career Services System
-System for managing all aspects of student career services, including
-event management for career fairs, coordinating on-campus interviews, and
-providing a student job search platform.
-
-(None Available)
-
-## Customer Relationship Management
-System for managing and tracking a university's interactions with its
-"customers", which often refers to students, but could also include alumni,
-staff, and more.
-
-(None Available)
-
-Although I could not find any open-source CRM solutions _specific_ to
-higher education, there are plenty of general open-source CRM solutions that
-could likely be tweaked to fit the needs of a higher education institution.
-
-## Document Management System
-System used to scan, index, and archive images of university documents.
-
-(None Available)
-
-## E-mail System
-System supporting university e-mail communication.
-
-Similar to a calendaring system (see above), this is not a higher education-specific
-problem. There are a number of open-source solutions to this problem, so they
-will not be listed here.
-
-## Emergency Communication System
-System for notifying people across the university of an emergency situation,
-like an active shooter or gas leak. Methods of communication could include
-phone, text message, e-mail, and more.
-
-(None Available)
-
 ## Enterprise Resource Planning
-System allowing for the management of broadly defined "university resources"
-(funds, classrooms, students) in a central location, providing tools for
-streamlining and integrating the business processes surrounding these
-resources.
 
 | Product                                                                          | Source                                                          |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | [EduERP](http://www.serpentcs.com/services/erp-products/education-erp)           | [View Source](https://github.com/JayVora-SerpentCS/EduERPv8)    |
 | [EduSec](http://www.rudrasoftech.com/product/edusec-college-management-software) | [View Source](https://github.com/EduSec/EduSec)                 |
 | [OpenEduCat](https://www.openeducat.org/)                                        | [View Source](https://github.com/openeducat/openeducat_erp)     |
-
-## Event Management System
-
-TBD
-
-## Financial Aid Management System
-
-(None Available)
 
 ## Learning Management System
 
@@ -105,18 +37,6 @@ TBD
 | [Open Elms](http://www.openelms.org/)               | [View Source](http://openelms.cvs.sourceforge.net/viewvc/openelms/openelms/) |
 | [Opigno](https://www.opigno.org/en)                 | [View Source](http://cgit.drupalcode.org/opigno_lms/tree/)                   |
 | [Sakai](https://www.sakaiproject.org/)              | [View Source](https://source.sakaiproject.org/svn/sakai/)                    |
-
-## Library Management System
-
-TBD
-
-## Single Sign-On
-
-TBD
-
-## Student Health Management System
-
-TBD
 
 ## Student Information System
 
