@@ -5,6 +5,8 @@ used within higher education.
 
 This project is currently focusing on universities within the United States.
 
+For a more comprehensive list, check out the [University Commons project](https://github.com/universitycommons/universitycommons.io).
+
 ## Accounting System
 
 | Product                                             | Source                                      |
